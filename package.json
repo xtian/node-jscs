@@ -27,7 +27,7 @@
   "dependencies": {
     "colors": "~0.6.2",
     "commander": "~2.3.0",
-    "esprima": "~1.2.2",
+    "esprima": "esnext/esprima#harmony-esnext",
     "glob": "~4.0.0",
     "minimatch": "~0.4.0",
     "strip-json-comments": "~0.1.1",
